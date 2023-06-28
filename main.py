@@ -9,8 +9,8 @@ USER_PASSWORD = "*963.123.-+wsSB"
 CAMPUS_NAME = "江湾校区"
 SPORT_NAME = "羽毛球"
 SPORT_LOCATION = "江湾体育馆羽毛球场"
-DATE = "2023-07-01"
-TIME = "20:00"
+DATE = "2023-06-30"
+TIME = "10:00"
 
 # Optional data
 EMAILS = ["YOUR_EMAIL"]  # Receive error notifications by email
